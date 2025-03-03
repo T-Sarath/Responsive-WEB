@@ -1,0 +1,469 @@
+@media(min-width:0px) and (max-width:660px){
+    *{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+    }
+    html , body{
+     overflow-x: hidden;
+     height: 100vh;
+    }
+    .partion3{
+     margin-left: 110px;
+     width: 350px; 
+    }
+    .para-part3{
+     margin-left: 110px;
+     width: 350px;
+    }
+     .top{
+     display: flex;
+     flex-direction: column;
+    }
+    .image{
+     width: 28%;
+     margin-left: 0px;
+    }
+    .anchor{
+     display: flex;
+     flex-direction: column;
+    }
+    .para{
+     display:flex;
+     flex-direction: column;
+    }
+    .start1 {
+     display: flex;
+     flex-direction: row;
+     justify-content: start;
+     margin-left: -70px;
+     font-size: 11px;
+ }
+ .image1{
+     height: 150px;
+     width: 250px;
+     margin-left: -20px;  
+     margin-top: 20px; 
+ }
+ .para3{
+     width: 250px;
+     margin-left: 40px;
+     font-size: medium;
+ }
+ .para4{
+     width: 280px;
+     line-height: 1.72;
+     margin-left: 40px;
+ }
+ .button1{
+     margin-top: 40px;
+     margin-left: 40px;
+ }
+ .start2{
+     display: block;
+     flex-direction: column;
+ }
+ .svg-content{
+     height: 150px; 
+     
+ }
+ .para5,.para6,.para7{
+     width: 280px;
+     
+ 
+ }
+ .span{
+     margin-left: -146px;
+     top: -20px;
+     font-size: xx-small;
+     font-weight: 600;
+     
+ }
+ .section{
+     margin-bottom: 10px;
+     display: block;
+     margin-left: 30px;
+ }
+ .section3{
+     margin-left: -70px;
+ }
+ .section4{
+     display: flex;
+     flex-direction: column;
+ }
+ .imgsize{
+     margin-left: -80px;
+ }
+ .div2{
+     width: 350px;
+ }
+ 
+ .imgcustom1{
+     height: 250px;
+     width: 370px;
+     margin-top:80px;
+     margin-left: -70px;
+ }
+ .section5{
+     width: 350px;
+     margin-left: 16px;
+    
+ }
+ 
+ .section6{
+     display: block;
+ }
+ .part3{
+     display: block;
+     height: 800px;
+     width: 100%;
+ }
+ .section7{
+     margin-left: -10px;
+ }
+ .div3{
+     margin-top: 120px;
+     margin-left: -95px;
+     width: 350px;
+     align-items: center;   
+ }
+ .section8{
+     margin-left: -60px;
+     width: 355px;
+ }
+ .section9{
+     margin-left: -70px;
+     margin-bottom: 60px;
+     display: block;
+     width: 350px;
+ }
+ .div5{
+    margin-left: 30px;
+ }
+ .divcontent{
+     margin-left: 60px;
+ }
+ .apara{
+     width: 350px;
+     margin-top: 200px;
+     margin-left: -110px;
+ }
+ .themeimg{
+     width: 340px;
+     height: 200px;
+     margin-left: -550px;
+     margin-top: 45px;
+ }
+ .businessimg{
+     width: 400px;
+     height: 300px;
+     margin-top: 40px;
+     margin-left: -20px;
+ }
+ .secpart4{
+     display: block;
+     margin-left: 120px;
+ }
+ .h2p{
+     width: 350px;
+     margin-bottom: 30px;
+     margin-left: -130px;
+     
+ }
+ 
+ .span2{
+     margin-left: -70px;
+     width: 320px;
+     height: 80px;
+     
+ }
+ .span3{
+    width: 300px;
+ }
+ .circle{
+     margin-left: -380px;
+ }
+ .para8{
+     width: 300px;
+     margin-left: -240px;
+ }
+ .div8{
+     width: 350px;
+     margin-left: -80px;
+ }
+ .section10{
+    margin-left: -110px;
+ }
+ .div9{
+     margin-left:20px;
+ }
+ .section13{
+     display: block;
+ }
+ .designimg{
+     margin-top: 150px;
+     height: 290px;
+     width: 350px;
+     margin-left: -530px;
+ }
+ .section12{
+     width: 100%;  
+ }
+ .section14{
+     width: 350px;
+     margin-left: 10px;
+     margin-top: 60px;
+ }
+ .subclass{
+    margin-top: 30px;
+ }
+ .section15{
+     display: block;
+     margin-left: 10px;
+     
+ }
+ .blockimg{
+     width: 240px; 
+ }
+ .div10{
+     margin-left: -5px;
+ }
+ .div11{
+     margin-top: 40px;
+     border: 1px solid gainsboro;
+     box-shadow: #FEF4EA;
+ }
+ .h3para{
+     width: 200px;
+ }
+ .para9{
+     width: 200px;
+ }
+ .anchor11{
+     margin-left: -10px;
+ }
+ .section16{
+     margin-left: -10px;
+ }
+ .allboxes{
+     margin-left: -10px;
+ }
+ .boxes1,.boxes2{
+     display: block;
+     font-size: small;
+     margin-left: 20px;
+ }
+ .box1,.box2,.box4{
+     border: 1px solid #d7e5fc;
+     width: 350px;
+ }
+ .box3{
+     border: 1px solid #d7e5fc;
+     width: 350px;
+     margin-top: 30px;
+ 
+ }
+ .parah3{
+     width: 290px;
+ }
+ .content1{
+     width: 350px;
+     margin-left: 10px;
+ }
+ .content-text{
+     display: block;
+     margin-left:70px;  
+ }
+ .content-text2,.content-text3{
+     margin-top: 20px;
+ }
+ .last-page{
+     display: block;
+     margin-top: 18em;
+     margin-left: 80px;
+     
+ }
+ 
+ .fivth-content{
+     height: 236em;
+     
+     
+ }
+ .social-media-icon{
+     
+     margin-left: -115px;
+ }
+ .footer-link{
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+ }
+ .footer-head5{
+     margin-top: 1px;
+ }
+ 
+ .sub-footlist{
+     margin-top: -4px;
+ }
+ .section11{
+     flex-direction: column;
+     
+     margin-left: 20px;
+     width: 350px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     margin-top: 180px;
+     
+ }
+ }
+@media(min-width:661px) and (max-width:1024px){
+    html , body{
+        overflow-x: hidden;
+        height: 100vh;
+       }
+       .image{
+        width: 131px;
+        margin-left: 200px; 
+       }
+       .anchor{
+        font-size: x-large;
+       }
+       .button{
+        margin-left: -310px;
+       }
+       .para,.para2{
+        display:flex;
+        flex-direction: column;
+        font-size: x-large;
+       }
+       .start2{
+        width: 100%;
+       }
+       .image1{
+        margin-left: 210px;
+        height: 400px;
+       }
+
+       .para3{
+        width: 400px;
+        
+    }
+    .span{
+        font-size:larger ;
+    }
+    .para4{
+        width: 350px;
+        font-size: x-large;
+    }
+    .button1{
+        font-size: x-large;    
+    }
+    .svg-content{
+        position: relative;
+        right: 30%;
+    }
+    .para5,.para6,.para7{
+        font-size: x-large;
+        width: 350px;
+        margin-top: 5px;
+    }
+    .section2{
+        position: relative;
+        right: 70px;   
+    }
+    .imgcustom1{
+        width: 400px;
+        margin-right: 160px;
+    }
+    .div2{
+        font-size: large; 
+    }
+    .section5,.section6{
+        margin-top: 90px;
+    }
+    .section8{
+        width: 450px;
+        height: 400px;
+        margin-top:80px ;
+    }
+    .div3{
+        margin-left: 150px;
+        width: 350px;
+        
+    }
+    .part3{
+        height: 600px; 
+    }
+    .section9,.apara{
+        margin-left: -10px;
+        width: 450px;
+    }
+    .themeimg{
+        width: 400px;
+        height: 250px;
+        margin-left: -80px;
+    }
+    .businessimg{
+        height: 250px;
+        width: 450px;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+    .div6{
+        position: relative;
+        top: 90px;
+        margin-left: 35px;
+    }
+    .imgautomate{
+        height: 250px;
+        width: 400px;
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    .partion11{
+        margin-top: 70px;
+    }
+    .span2{
+        height: 120px;
+        width: 500px;
+    }
+    .circle{
+        margin-left: -60px;
+    }
+    .para8{
+        margin-left: -120px;
+    }
+    .div8{
+        width: 450px;
+    }
+    .designimg{
+        margin-left: -240px;
+    }
+    .section15{
+        display: block;
+        margin-left: 280px;
+    }
+    .div11{
+        margin-top: 20px;
+        border: 1px solid gainsboro;
+        box-shadow: #FEF4EA;
+        width: 352px;
+    }
+    .boxes1,.boxes2{
+        display: block;
+        margin-left: 250px;
+        font-size: large;
+        width: 550px;
+    }
+    .box1,.box2,.box3,.box4{
+        width: 600px;
+        margin-top: 30px;
+    }
+    .fivth-content{
+        height: 2200px;
+        
+    }
+    
+    
+    
+
+}
